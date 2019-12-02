@@ -1,3 +1,4 @@
+# This is a linkedlist class in python
 class Node:
     # Function to initialize the node object 
     def __init__(self, data): 
